@@ -1,3 +1,4 @@
+# Author Fay
 # initialise ----
 install.packages("Rcpp")
 library(Rcpp)
